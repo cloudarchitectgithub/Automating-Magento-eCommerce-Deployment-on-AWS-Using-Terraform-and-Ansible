@@ -1,0 +1,2 @@
+# Automating-Magento-eCommerce-Deployment-on-AWS-Using-Terraform-and-Ansible
+Fully automated Magento eCommerce deployment on AWS using Terraform for infrastructure provisioning and Ansible for configuration management. This project demonstrates end-to-end automation from VPC setup to application deployment with detailed implementation steps and best practices for scalable, secure, and cost-efficient cloud infrastructure.
